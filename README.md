@@ -1,6 +1,7 @@
 # vue-personal-web
 
-> A Vue.js project
+* 用 Vue.js 重構個人網站。
+* 符合 SPA 架構。
 
 ## Build Setup
 
