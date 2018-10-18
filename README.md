@@ -1,5 +1,5 @@
 # vue-personal-web
-
+[DEMO](https://shawnhuang0321.github.io/vue-personal-web/#/)
 * 用 Vue.js 重構個人網站。
 * 符合 SPA 架構。
 
